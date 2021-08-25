@@ -8,7 +8,7 @@
 In the telecom industry, customers are able to choose from multiple service providers and actively switch from one operator to another. In this highly competitive market, the telecommunications industry experiences an average of 15-25% annual churn rate. Given the fact that it costs 5-10 times more to acquire a new customer than to retain an existing one, `customer retention has now become even more important than customer acquisition`.
 
 
-## Observations
+## Colclusion
 
 - `loc_ic_mou_8` - reduce in the number of minutes of usage in August increase the probability of churning a customer.<br><br>
 - `av_rech_amt_call_data_8` - reduce in the average of recharges of call and data in the action phase i.e. August month,  is a strong indicator that the customer is likely to churn. <br><br>
