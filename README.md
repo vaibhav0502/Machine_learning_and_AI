@@ -15,3 +15,5 @@
 [. Flight Ticket Price Prediction](https://github.com/vaibhav0502/Machine_learning_and_AI/tree/main/Flight_Ticket_Price_Hackathon)
 
 [. Plant Disease Prediction (CNN)](https://github.com/vaibhav0502/Machine_learning_and_AI/tree/main/Plant_disease_detection)
+
+[. Chocolate Bar Ratings](./Chocolate_Bar_Rating)
