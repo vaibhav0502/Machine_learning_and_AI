@@ -12,6 +12,8 @@
 
 [6. Skin Cancer Classifiaction (CNN)](./CNN_Skin_Cancer_Class/)
 
+[7. Gesture Recognition (CNN+RNN)](./Gesture_Recognition/)
+
 [. Flight Ticket Price Prediction](./Flight_Ticket_Price_Hackathon/)
 
 [. Plant Disease Prediction (CNN)](./Plant_disease_detection/)
