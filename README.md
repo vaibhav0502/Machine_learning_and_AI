@@ -19,3 +19,5 @@
 [. Plant Disease Prediction (CNN)](./Plant_disease_detection/)
 
 [. Chocolate Bar Ratings](./Chocolate_Bar_Rating)
+
+[. UGAM-Hackathon](./UGAM-Hackathon)
